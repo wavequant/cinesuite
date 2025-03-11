@@ -17,10 +17,10 @@ CineSuite is a free and open-source **Python-based photo effects app** that lets
 
 ## 🖥️ Download  
 - **Windows (.exe)**: [Download here](https://github.com/wavequant/cinesuite/releases/download/release/CineSuite_Windows.zip)  
-- **Mac (.app)**: [Download here, READ BELOW HOW TO RUN](https://github.com/wavequant/cinesuite/releases/download/release/CineSuite_MacOS.zip)  
+- **Mac (.app)**: [Download here, READ BELOW HOW TO OPEN](https://github.com/wavequant/cinesuite/releases/download/release/CineSuite_MacOS.zip)  
 *(Links also available in the Releases section.)*
 
-**IMPORTANT FOR MACOS USERS**: Before first-time use, you have to run the script "run_cinesuite.sh" in order to run an un-signed app, as I don't have an Apple Developer account to sign it properly, so you won't be able to run the app (it will say it's damaged) without first running the script. After that, you can open the app without a problem. In order to run the script before first-time use, open your terminal, navigate to the folder where you extracted the zip, and type "bash run_cinesuite.sh".
+**IMPORTANT FOR MACOS USERS**: Before first-time use, you have to run the script "run_cinesuite.sh" in order to open an un-signed app, as I don't have an Apple Developer account to sign it properly, so you won't be able to run the app (it will say it's damaged) without first running the script. After that, you can open the app without a problem. In order to run the script before first-time use, open your terminal, navigate to the folder where you extracted the zip, and type "bash run_cinesuite.sh".
 
 ## 📸 How It Works  
 1. Open CineSuite and load your images.  
